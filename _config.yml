@@ -23,7 +23,7 @@ repository               : "sfaguile-uc/sfaguile-uc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile1.png"
+  avatar           : "profile1.jpg"
   name             : "Sergio Aguilera Ph.D."
   pronouns         : # example: "she/her"  
   bio              : "Assistant professor at Pontificia Universidad Católica de Chile. Ph.D. in Robotics from Georgia Institute of Technology."
