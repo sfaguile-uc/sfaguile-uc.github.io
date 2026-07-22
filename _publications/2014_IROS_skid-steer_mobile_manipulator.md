@@ -2,10 +2,10 @@
 title: "Modeling of skid-steer mobile manipulators using spatial vector algebra and experimental validation with a compact loader"
 collection: publications
 category: manuscripts
-permalink: /publication/2014_IROS_skid-steer_mobile_manipulator
+permalink: /publications/2014_IROS_skid-steer_mobile_manipulator
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
+date: 2014
+venue: '2014 IEEE/RSJ International Conference on Intelligent Robots and Systems'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://sfaguile-uc.github.io/files/2014_IROS_skid-steer_mobile_manipulator.pdf'
 bibtexurl: 'https://sfaguile-uc.github.io/files/2014_IROS_skid-steer_mobile_manipulator.bib'
