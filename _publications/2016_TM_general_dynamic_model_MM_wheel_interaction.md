@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2016_TM_general_dynamic_model_MM_wheel_interaction
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2016
+date: 2016-08-18
 venue: 'IEEE/ASME Transactions on Mechatronics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://sfaguile-uc.github.io/files/2016_TM_general_dynamic_model_MM_wheel_interaction.pdf'
