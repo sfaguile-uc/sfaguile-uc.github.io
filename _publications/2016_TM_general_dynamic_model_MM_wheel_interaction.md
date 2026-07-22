@@ -3,7 +3,7 @@ title: "General Dynamic Model for Skid-Steer Mobile Manipulators with Wheel-Grou
 collection: publications
 category: manuscripts
 permalink: /publication/2016_TM_general_dynamic_model_MM_wheel_interaction
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+#excerpt: 'Generalized model for SSMM with wheel-ground interactions with experimental validation'
 date: 2016-08-18
 venue: 'IEEE/ASME Transactions on Mechatronics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'

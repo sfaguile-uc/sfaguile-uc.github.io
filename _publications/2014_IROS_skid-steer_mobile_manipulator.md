@@ -3,7 +3,7 @@ title: "Modeling of skid-steer mobile manipulators using spatial vector algebra 
 collection: publications
 category: manuscripts
 permalink: /publication/2014_IROS_skid-steer_mobile_manipulator
-excerpt: 'Dynamic model of skid-steer mobile manipulators using spatial vectors algebra with experimental validation.'
+#excerpt: 'Dynamic model of skid-steer mobile manipulators using spatial vectors algebra with experimental validation.'
 date: 2014-09-14
 venue: 'IEEE/RSJ International Conference on Intelligent Robots and Systems'
 # slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
