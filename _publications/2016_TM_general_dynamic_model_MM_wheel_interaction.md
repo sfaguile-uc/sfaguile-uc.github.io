@@ -3,11 +3,12 @@ title: "General Dynamic Model for Skid-Steer Mobile Manipulators with Wheel-Grou
 collection: publications
 category: manuscripts
 permalink: /publication/2016_TM_general_dynamic_model_MM_wheel_interaction
-#excerpt: 'Generalized model for SSMM with wheel-ground interactions with experimental validation'
+excerpt: 'Generalized model for SSMM with wheel-ground interactions with experimental validation'
 date: 2016-08-18
 venue: 'IEEE/ASME Transactions on Mechatronics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://sfaguile-uc.github.io/files/2016_TM_general_dynamic_model_MM_wheel_interaction.pdf'
+bibtexurl: 'https://sfaguile-uc.github.io/files/2016_TM_general_dynamic_model_MM_wheel_interaction.bib'
 citation: 'S. Aguilera-Marinovic, M. Torres-Torriti and F. Auat-Cheein, "General Dynamic Model for Skid-Steer Mobile Manipulators With Wheel–Ground Interactions," in IEEE/ASME Transactions on Mechatronics, vol. 22, no. 1, pp. 433-444, Feb. 2017, doi: 10.1109/TMECH.2016.2601308.'
 ---
 
