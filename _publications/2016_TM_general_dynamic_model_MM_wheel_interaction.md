@@ -7,7 +7,7 @@ excerpt: 'This paper is about the number 2. The number 3 is left for future work
 date: 2016
 venue: 'IEEE/ASME Transactions on Mechatronics'
 #slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://sfaguile-uc.github.io/files/paper2.pdf'
+paperurl: 'https://sfaguile-uc.github.io/files/2016_TM_general_dynamic_model_MM_wheel_interaction.pdf'
 citation: 'S. Aguilera-Marinovic, M. Torres-Torriti and F. Auat-Cheein, "General Dynamic Model for Skid-Steer Mobile Manipulators With Wheel–Ground Interactions," in IEEE/ASME Transactions on Mechatronics, vol. 22, no. 1, pp. 433-444, Feb. 2017, doi: 10.1109/TMECH.2016.2601308.'
 ---
 
