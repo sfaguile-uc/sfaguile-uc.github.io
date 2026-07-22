@@ -1,7 +1,7 @@
 ---
 title: "Mass Estimation of a Moving Object Through Minimal Manipulation Interaction"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021_ICRA_Mass_Estimation_of_a_Moving_Object
 excerpt: 'Fast, online estimation of moving objects using multimodal sensing of cameras, manipulator state and force/torque sensor'
 date: 2021-30-5

@@ -1,7 +1,7 @@
 ---
 title: "Control of Cart-Like Nonholonomic Systems Using a Mobile Manipulator"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023_IROS_Control_Nonholonomic_Systems_Using_MM
 excerpt: 'Using of torque controller to manipulated nonholonomic system using a mobile manipulator with hardware experimentation.'
 date: 2023-10-01

@@ -1,7 +1,7 @@
 ---
 title: "Modeling and Inertial Parameter Estimation of Cart-like Nonholonomic Systems Using a Mobile Manipulator"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2023_ICRA_Modeling_and_Parameter_Estimation
 excerpt: 'Using a torque controlled manipulator we estimate inertial parameters (mass, center of mass and inertia) of a nonholonomic systems using an extender Kalman filter. We validate the approach using hardware experiments using mobile manipulators.'
 date: 2023-05-29

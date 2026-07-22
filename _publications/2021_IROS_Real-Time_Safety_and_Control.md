@@ -1,7 +1,7 @@
 ---
 title: "Real-Time Safety and Control of Robotic Manipulators with Torque Saturation in Operational Space"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2021_IROS_Real-Time_Safety_and_Control
 excerpt: 'Control Barrier Functions (CBF) and Rapidly Exponentially Stabilizing Control Lyapunov Functions (RESCLF) to ensure safety for torque controlled manipulators'
 date: 2021-09-27
